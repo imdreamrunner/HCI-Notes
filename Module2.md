@@ -70,3 +70,23 @@ Data Entry guidelines:
   3. Form-fill in
   4. Command Language
   5. Natural Language
+ * 8 goldern rules of interface design
+  1. Strive for consistency
+  2. Cater to universal usability
+  3. Offer informative feedback
+  4. Design dialogs to yield closure
+  5. Permit easy reversal of actions
+  6. Support internal locus of control
+  7. Reduce short term memory
+  8. Prevent errors
+
+###Theories
+
+Seven stages of action theory by Donald Norman
+ 1. Forming the goal
+ 2. Forming the intention
+ 3. Specifying the action
+ 4. Executing the action
+ 5. Perceiving the system state
+ 6. Interpreting the system state
+ 7. Evaluating the outcome
