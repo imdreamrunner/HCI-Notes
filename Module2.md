@@ -54,3 +54,19 @@ Data Entry guidelines:
  * Compatibility of data entry with data display
  * Flexibility for user control
  * etc.
+
+###Principles
+
+ * Determine user's skill levels
+  * Novice/First-Time users
+  * Knowledge-able Intermittent Users
+  * Expert/Frequent Users
+ * Indentify the tasks
+  * Decomposition of high level tasks
+  * Relative task frequencies
+ * Choose Interaction Style
+  1. Direct Manipulation
+  2. Menu Selection
+  3. Form-fill in
+  4. Command Language
+  5. Natural Language
