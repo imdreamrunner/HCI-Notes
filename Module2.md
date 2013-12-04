@@ -32,13 +32,17 @@ Examples:
   * Interaction usage
   * Require all developers to follow the guidelines
 
-Documents
+Documents:
   * Any serious large-scale UI design should have a "Guideline Document"
   * Provides a "Shared language" that developers and customers can use
   * Allows consistency within a design team
   * Guidelines document is not trivial
 
-
-
-
+####Display organization guidelines:
+ * Consistency of data display
+ * Efficient information assimilation by the user
+ * Minimal memory load on the user
+ * Compatibility of data display with data entry
+ * Flexibility for user control of data display
+ * etc.
 
