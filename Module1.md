@@ -6,18 +6,16 @@ HCI Notes - Module 1
 
 ###Usability Requirements
 
-4 Goals for usability requirements
-
+####4 Goals for usability requirements
 1. Ascertain the **user's needs**
 2. Ensure **proper reliability**
 3. Promote appropriate **standardisation**, **integration**, **consistency**, and **portability**
 4. Complete projects on schedule
 
-
 ###Usability Measurements
 
-5 human factors central to community evaluation
 
+####5 human factors central to community evaluation
 1. Time to learn
 2. Speed of performance
 3. Rate of errors by users
@@ -27,14 +25,14 @@ HCI Notes - Module 1
 
 ###Usability Motivations & Application types
 
-Different type of applications have different motivations and requirements for the user.
-
+####Different type of applications have different motivations and requirements for the user.
 Classification by Shneiderman:
 1. Life-Critical Systems
 2. Industrial and commercial uses.
 3. Home and Entertainment
 4. Exploratory, creative, collaborative application
 5. Social/Technological Applications
+
 
 ###Universal Usability
 
