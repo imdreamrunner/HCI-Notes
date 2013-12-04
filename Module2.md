@@ -38,7 +38,8 @@ Documents:
   * Allows consistency within a design team
   * Guidelines document is not trivial
 
-####Display organization guidelines:
+####Examples
+Display organization guidelines:
  * Consistency of data display
  * Efficient information assimilation by the user
  * Minimal memory load on the user
@@ -46,3 +47,10 @@ Documents:
  * Flexibility for user control of data display
  * etc.
 
+Data Entry guidelines:
+ * Consistency of data-entry transactions
+ * Minimal input actions by user
+ * Minimal memory load
+ * Compatibility of data entry with data display
+ * Flexibility for user control
+ * etc.
