@@ -72,3 +72,44 @@ Fidelity refers to the level of detail (LoD)
 
 ####Prototypes Feedback
 Previews and feedback from prototypes is crucial even low fidelity mockups. If possible, get feedback from experts & average users.
+
+###Evaluating
+
+The determinants of the evaluation plan include:
+ * stage of design (early, middle, late)
+ * novelty of project (well defined vs. exploratory)
+ * number of expected users
+ * criticality of the interface (life-critical medical system vs. museum exhibit support)
+ * costs of product and finances allocated for testing
+ * time available
+ * experience of the design and evaluation team
+
+Troubling aspect of testing: uncertainty remains even after exhaustive testing by multiple methods.(Reason)
+ * Perfection is not possible in complex human endeavors, so must continue assessing and repairing problems during lifecycle of interface
+ * Decision must be made about completing prototype testing and delivering the product, even though problems may continue to be found
+ * Most testing methods will account fro normal usage, but performance in unpredictable situations with high levels of input such as nuclear reactor control, is extremely hard to test.
+
+####Expert Reviews
+Expert reviews entail one-half day to one week effort, although a lengthy training period may sometimes be required to explain the task domain or operational procedures.
+
+Methods chose from:
+ * Heuristic evaluation
+ * Guidelines review
+ * Consistency inspection
+ * Cognitive walkthrough
+ * Formal usability inspection
+
+Issues:
+* Expert reviews can be scheduled at several points in the development process when experts are available and when the design team is ready for feedback.
+* Different experts tend to find different problems in an interface, so 3-5 expert reviewers can be highly productive, as can complementary usability testing.
+* The dangers with expert reviews are that the experts may not have an adequate understanding of the task domain or user communities.
+* Even experienced expert reviewers have great difficulty knowing how typical users, especially first-time users will really behave.
+
+####Usability Testing and Laboratories
+ * Usability testing not only sped up many projects but has also produced dramatic cost savings.
+ * The movement towards usability testing stimulated the construction of usability laboratories.
+
+#####Usability Lab
+A typical modest usability lab would have two 10 by 10 foot areas, one for the participants to do their work and another, separated by a half- silvered mirror, for the testers and observers.
+
+Participants should be chosen to represent the intended user communities, with attention to background in computing, experience with the task, motivation, education, and ability with the natural language used in the interface.
