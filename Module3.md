@@ -110,6 +110,45 @@ Issues:
  * The movement towards usability testing stimulated the construction of usability laboratories.
 
 #####Usability Lab
-A typical modest usability lab would have two 10 by 10 foot areas, one for the participants to do their work and another, separated by a half- silvered mirror, for the testers and observers.
+A typical modest usability lab would have two 10 by 10 foot areas, one for the participants to do their work and another, separated by a half-silvered mirror, for the testers and observers.
 
 Participants should be chosen to represent the intended user communities, with attention to background in computing, experience with the task, motivation, education, and ability with the natural language used in the interface.
+
+**Usability Lab variations: Videotaping**
+
+Videotaping participants performing tasks is often valuable for later review and for showing designers or managers the problems that users encounter. (Reviewing videotaping is tedious, so careful logging and annotation is vital on finding critical incidents).
+
+**Usability Lab variations: Think Aloud**
+
+Participants carry out tasks while saying what they are thinking, and tester records thoughts.
+ * Tester does not take over or give instructions, but prompt and listen for clues how they are dealing with the interface.
+ * Think-aloud technique yield interesting clues for the tester.
+
+**Usability Lab variations: More**
+ * Paper mockups
+ * Discount usability testing
+ * Competitive usability testing
+ * Universal usability testing
+ * Field test and portable labs
+ * Remote usability testing
+ * Can-you-break-this tests
+
+####Survey Instruments
+Written user surveys are a familiar, inexpensive and generally acceptable companion for usability tests and expert reviews.
+
+Key to successful surveys:
+ * Clear goals in advance.
+ * Development of focused items that help attain the goals.
+
+Users could be asked for their subjective impressions about specific aspects of the interface such as the representation of:
+ * task domain objects and actions.
+ * syntax of inputs and design of displays.
+
+Other goals would be ascertain
+ * users background
+ * experience with computers
+ * job responsibilities
+ * personality style
+ * reasons for not using an interface
+ * familiarity with features
+ * their feeling state after using an interface
