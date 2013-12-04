@@ -11,15 +11,18 @@ Preparation
   * Familiarize yourself with the system and its history.
   * Set initial goals and prepare questions.
   * Gain access and permission to observe/interview.
+
 Field Study
   * Establish rapport with managers and users.
   * Observe/interview users in their workplace and collect subjective/objective quantitative/qualitative data.
   * Follow any leads that emerge from the visits.
+
 Analysis
   * Compile the collected data in numerical, textual, and multimedia databases.
   * Quantify data and compile statistics.
   * Reduce and interpret the data.
   * Refine the goals and the process used.
+
 Reporting
   * Consider multiple audiences and goals.
   * Prepare a report and present the findings.
@@ -34,4 +37,4 @@ On negative side, extensive user involvement may
   * be more costly.
   * lengthen the implementation period.
   * build antagonism with people not involved or whose suggestions rejected.
-  * force designers to compromise their design to satisfy incompetent participants
+  * force designers to compromise their design to satisfy incompetent participants.
