@@ -33,8 +33,42 @@ More user involvement brings
   * more opportunity for users to influence design decisions.
   * a sense of participation that builds users' ego investment in successful implementation.
   * potential for increased user acceptance of final system.
+
 On negative side, extensive user involvement may
   * be more costly.
   * lengthen the implementation period.
   * build antagonism with people not involved or whose suggestions rejected.
   * force designers to compromise their design to satisfy incompetent participants.
+
+###Prototyping
+
+UI Prototype ("mock up")
+ * Does not have to be functional
+ * Simply design the buttons, menus, etc
+ * Can well be a hand drawn picture
+
+Develop prototypes early, because it is very difficult and costly to make changes near the end of a project. May Provides a "vision" for both develops and clients.
+
+####Why
+ * Get feedback on our design faster
+ * Experiment with alternative designs
+ * Fix problems before code is written
+ * Keep the design centered on the user
+
+####Fidelity in Prototyping
+Fidelity refers to the level of detail (LoD)
+ * High fidelity, prototypes look like the final product.
+ * Low fidelity, artists renditions with many details missing.
+
+#####Low-fi Storyboards
+ * What are storyboards? High-level representation of important user actions & consequences.
+ * Where do storyboards come from? Film & animation.
+ * Give you a "script" of important events.
+
+#####High-Fi Mockuo
+ * After interface is established, still room for more mockup.
+ * High-Fidelity can look much more similar to final product.
+ * Paper-based may still be used OK, but most likely using real code and software.
+
+####Prototypes Feedback
+Previews and feedback from prototypes is crucial even low fidelity mockups. If possible, get feedback from experts & average users.
