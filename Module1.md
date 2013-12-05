@@ -27,6 +27,7 @@ HCI Notes - Module 1
 
 ####Different type of applications have different motivations and requirements for the user.
 Classification by Shneiderman:
+
 1. Life-Critical Systems
 2. Industrial and commercial uses.
 3. Home and Entertainment
